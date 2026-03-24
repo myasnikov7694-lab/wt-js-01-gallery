@@ -94,4 +94,3 @@ function onCloseModal() {
 function onEscKeyPress(evt) {
   if (evt.code === "Escape") onCloseModal();
 }
-Ы
